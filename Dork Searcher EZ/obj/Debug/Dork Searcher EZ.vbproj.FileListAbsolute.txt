@@ -1,0 +1,21 @@
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork Searcher EZ.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Interop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork Searcher EZ.vbproj.ResolveComReference.cache
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.Resources.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.AuthForm.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.Change.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.FormBlack.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.FormDBUpdate.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.FormSetting.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.FormWhite.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.MainForm.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.myMessage.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork_Searcher_EZ.NewYearEnd.resources
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork Searcher EZ.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\bin\Debug\Dork Searcher EZ.exe.config
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\bin\Debug\Dork Searcher EZ.exe
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\bin\Debug\Dork Searcher EZ.pdb
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\bin\Debug\Dork Searcher EZ.xml
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork Searcher EZ.exe
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork Searcher EZ.xml
+C:\Users\Samad.Dz\Desktop\Dork Searcher EZ\Dork Searcher EZ\obj\Debug\Dork Searcher EZ.pdb
